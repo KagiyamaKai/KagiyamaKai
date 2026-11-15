@@ -166,10 +166,10 @@
   <h2><img src="https://raw.githubusercontent.com/KagiyamaKai/KagiyamaKai/main/assets/icons/bar-chart.svg" width="22" height="22" valign="middle" alt="Statistics Icon"/> GitHub Statistics</h2>
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KagiyamaKai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br/><br/>
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=KagiyamaKai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br/><br/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KagiyamaKai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /><br/><br/>
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=KagiyamaKai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /><br/><br/>
   
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=KagiyamaKai&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/><br/>
