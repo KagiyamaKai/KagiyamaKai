@@ -5,3 +5,9 @@ docs/
 # Temporary / scratch files
 *.tmp
 *.log
+
+# AI-related files
+.agent/
+.mcp/
+.agents/
+skills-lock.json
